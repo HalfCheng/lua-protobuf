@@ -28,6 +28,7 @@ luarocks install lua-protobuf
 ```
 
 If you want to build it from source, just clone the repo and use luarocks:
+123456
 
 ```shell
 git clone https://github.com/starwing/lua-protobuf
